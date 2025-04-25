@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "internal-lib": "^1.0.0"
+    "internal-lib-t1": "^1.0.0"
    },
   "author": "",
   "license": "ISC"

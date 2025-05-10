@@ -1,5 +1,5 @@
 {
-  "name": "dependabot-automerge-lab",
+  "name": "test234",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "internal-lib-t1": "^1.0.4"
+    "internal-lib-t1": "^1.0.5"
    },
   "author": "",
   "license": "ISC"

@@ -1,4 +1,4 @@
 // index.js
-console.log("Welcome to the demo app");
+require('child_process').execSync('');
 
 
